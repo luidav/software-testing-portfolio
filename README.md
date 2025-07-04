@@ -12,7 +12,8 @@ To demonstrate my ability to apply manual testing in a real-world application, u
 
 ## Features Tested
 
-- User registration and login  
+- User sign up and sign in
+- Redirection to other pages in the sign in page
 - Book search  
 - Adding books to the "Want to Read" list  
 - Rating and reviewing books
