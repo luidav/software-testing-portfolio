@@ -14,7 +14,12 @@ To demonstrate my ability to apply manual testing in a real-world application, u
 
 - User sign up and sign in
 - Redirection to other pages in the sign in page
-- Book search  
+- Book search
+- Author search
+- Group search
+- Quote search
+- List search
+- People search
 - Adding books to the "Want to Read" list  
 - Rating and reviewing books
 
