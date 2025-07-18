@@ -51,10 +51,29 @@ Test Case 1: User Login – Valid Credentials
 
 4. Click “Sign In”
 
+- **Expected Result:** User is redirected to their homepage
+- **Actual Result:** ✅ As expected
+- **Status:** Passed
 
 
 Test Case 2: Search for a Book – Valid Input 
+*Feature: Book Search
 
+*Scenario: Search using a valid book title
+
+*Steps:
+
+1. Go to the Goodreads homepage
+
+2. Locate the search bar
+
+3. Type the title “Atomic Habits”
+
+4. Press Enter or click the search icon
+
+- **Expected Result:** A list of books matching “Atomic Habits” appears
+- **Actual Result:** ✅ As expected
+- **Status:** Passed
 
 
 In the next link you can find more basic test scenarios for Goodreads:
