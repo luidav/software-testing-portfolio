@@ -36,12 +36,12 @@ To demonstrate my ability to apply manual testing in a real-world application, u
 
 ## Test Cases
 
-###Test Case 1: User Login – Valid Credentials
-*Feature: Login
+### Test Case 1: User Login – Valid Credentials
+-Feature: Login
 
-*Scenario: User logs in using a valid email and password
+-Scenario: User logs in using a valid email and password
 
-*Steps:
+-Steps:
 
 1. Navigate to Goodreads homepage
 
@@ -56,12 +56,12 @@ To demonstrate my ability to apply manual testing in a real-world application, u
 - **Status:** Passed
 
 
-###Test Case 2: Search for a Book – Valid Input 
-*Feature: Book Search
+### Test Case 2: Search for a Book – Valid Input 
+-Feature: Book Search
 
-*Scenario: Search using a valid book title
+-Scenario: Search using a valid book title
 
-*Steps:
+-Steps:
 
 1. Go to the Goodreads homepage
 
