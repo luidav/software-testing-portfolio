@@ -81,12 +81,6 @@ In the next link you can find more basic test scenarios for Goodreads:
 
 ---
 
-## Repository Content
-
-[]
-
----
-
 ## Bugs Found
 
 []
