@@ -81,6 +81,10 @@ In the next link you can find more basic test scenarios for Goodreads:
 
 ---
 
+## Test Cases
+
+---
+
 ## Bugs Found
 
 []
