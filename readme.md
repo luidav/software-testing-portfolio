@@ -93,6 +93,8 @@ In the next link you can find more test cases for Goodreads:
 
 ## Bugs Found
 
+2 bugs until now
+
 []
 
 ---
