@@ -34,9 +34,9 @@ To demonstrate my ability to apply manual testing in a real-world application, u
 
 ---
 
-## Test Cases
+## Test Escenarios
 
-### Test Case 1: User Login – Valid Credentials
+### Test Escenario 1: User Login – Valid Credentials
 -Feature: Login
 
 -Scenario: User logs in using a valid email and password
@@ -56,7 +56,7 @@ To demonstrate my ability to apply manual testing in a real-world application, u
 - **Status:** Passed
 
 
-### Test Case 2: Search for a Book – Valid Input 
+### Test Escenario 2: Search for a Book – Valid Input 
 -Feature: Book Search
 
 -Scenario: Search using a valid book title
