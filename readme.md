@@ -78,7 +78,7 @@ To demonstrate my ability to apply manual testing in a real-world application, u
 
 In the next link you can find more basic test scenarios for Goodreads:
 
-[ https://docs.google.com/spreadsheets/d/1W_JuKU7X42Rel6V1detaIfPSsZus5T1Y0k6cJTkmsPQ/edit?usp=sharing ]
+[ https://docs.google.com/spreadsheets/d/1W_JuKU7X42Rel6V1detaIfPSsZus5T1Y0k6cJTkmsPQ/edit?usp=sharing ].
 
 ---
 
