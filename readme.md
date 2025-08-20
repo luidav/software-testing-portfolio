@@ -86,6 +86,8 @@ In the next link you can find more basic test scenarios for Goodreads:
 
 ### Test Case 1:
 
+### Test Case 2:
+
 In the next link you can find more test cases for Goodreads:
 
 [ https://docs.google.com/spreadsheets/d/1nJAofkbqEoeYHENtsDXXdKLm6iz6WKpXrVGRfb1A2-k/edit?usp=sharing ].
