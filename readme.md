@@ -84,7 +84,7 @@ In the next link you can find more basic test scenarios for Goodreads:
 
 ## Test Cases
 
-### Test Case 1:
+### Test Case 1: Search a book by partial title
 
 
 
