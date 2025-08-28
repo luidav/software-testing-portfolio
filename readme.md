@@ -88,7 +88,9 @@ In the next link you can find more basic test scenarios for Goodreads:
 
 
 
-### Test Case 2:
+### Test Case 2: Search by Author Name
+
+
 
 In the next link you can find more test cases for Goodreads:
 
