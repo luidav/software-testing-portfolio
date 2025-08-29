@@ -90,7 +90,7 @@ Priority: Medium
 
 ### Test Case 2: Search by Author Name
 
-
+Priority: High
 
 In the next link you can find more test cases for Goodreads:
 
