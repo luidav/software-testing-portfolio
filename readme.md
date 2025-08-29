@@ -86,7 +86,7 @@ In the next link you can find more basic test scenarios for Goodreads:
 
 ### Test Case 1: Search a book by partial title
 
-
+Priority: Medium
 
 ### Test Case 2: Search by Author Name
 
