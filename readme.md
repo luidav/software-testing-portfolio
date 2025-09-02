@@ -85,8 +85,29 @@ In the next link you can find more basic test scenarios for Goodreads:
 ## Test Cases
 
 ### Test Case 1: Search a book by partial title
+-Priority: Medium
 
-Priority: Medium
+-Feature: Book search
+
+-Scenario: User searches for a book using only part of the title
+
+-Steps:
+
+1. Navigate to the Goodreads homepage.
+
+2. Locate the search bar.
+
+3. Type a partial title, for example: Hobb (for The Hobbit).
+
+4. Press Enter or click the search icon.
+
+-**Expected Result:**
+Search suggestions appear, including the full title (e.g., The Hobbit), or the results page shows relevant books matching the input.
+- **Actual Result:**
+  ✅ As expected.
+- **Status:**
+  Passed.
+
 
 ### Test Case 2: Search by Author Name
 
