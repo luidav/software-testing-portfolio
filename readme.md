@@ -101,24 +101,35 @@ In the next link you can find more basic test scenarios for Goodreads:
 
 4. Press Enter or click the search icon.
 
--**Expected Result:**
-Search suggestions appear, including the full title (e.g., The Hobbit), or the results page shows relevant books matching the input.
-- **Actual Result:**
-  ✅ As expected.
-- **Status:**
-  Passed.
+-**Expected Result:** Search suggestions appear, including the full title (e.g., The Hobbit), or the results page shows relevant books matching the input.
+- **Actual Result:** ✅ As expected.
+- **Status:** Passed.
 
 
-### Test Case 2: Search by Author Name
+### Test Case 2: Search a book by author name
+-Feature: Book Search
 
-Priority: High
+-Scenario: User searches for books by entering an author's name
+
+-Steps:
+
+1. Navigate to the Goodreads homepage.
+
+2. Locate the search bar.
+
+3. Type the author’s name (e.g., “J.K. Rowling”).
+
+4. Press Enter or click the search icon.
+
+**Expected Result:** The results page displays books written by the author, ranked by popularity or relevance.
+
+**Priority:** High
 
 In the next link you can find more test cases for Goodreads:
 
 [ https://docs.google.com/spreadsheets/d/1nJAofkbqEoeYHENtsDXXdKLm6iz6WKpXrVGRfb1A2-k/edit?usp=sharing ].
 
 ---
-
 
 ## Bugs Found
 
