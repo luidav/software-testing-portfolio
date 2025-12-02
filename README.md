@@ -133,11 +133,33 @@ In the next link you can find more test cases for Goodreads:
 
 ## Bugs Found
 
-### Bug 1: 
+### Bug 1: Email Field Accepts Invalid or Misspelled Domains
 
+**Section:** Sign Up / Sign In  
+- **Severity:** Medium  
+- **Summary:** The system accepts email addresses with invalid or misspelled domains (e.g., `abc@gmal.com`) without displaying any warning.  
+- **Expected Result:**  
+  The sign-up process should prevent submission and display a validation message informing the user that the email may be invalid.  
+- **Actual Result:**  
+  Account creation proceeds successfully even when the domain contains obvious typos.  
+- **Impact:**  
+  May lead to undelivered confirmation or notification emails and reduce data quality.
 
+---
 
-[]
-https://docs.google.com/spreadsheets/d/1Eiseva5nc-eWWw8Aesd8KT1BzJ4TVaVsRAlC0BxeM4g/edit?usp=sharing
+### Bug 2: Search Fails to Handle Misspelled Book Titles
+- **Section:** Search Functionality  
+- **Severity:** Medium  
+- **Summary:** The search bar does not recognize or correct common misspellings of book titles.  
+- **Steps to Reproduce:**  
+  1. Enter a misspelled title such as “Hary Poter”.  
+  2. Press Enter or click the search icon.  
+- **Expected Result:**  
+  The system should propose suggestions such as “Did you mean: *Harry Potter*?” or return fuzzy-matched relevant items.  
+- **Actual Result:**  
+  No suggestions or relevant results are returned.  
+- **Impact:**  
+  Leads to poor search experience and makes relevant content harder to discover.
+[https://docs.google.com/spreadsheets/d/1Eiseva5nc-eWWw8Aesd8KT1BzJ4TVaVsRAlC0BxeM4g/edit?usp=sharing]
 ---
 
